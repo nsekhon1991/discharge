@@ -6,4 +6,4 @@
 
 Provided here is the code written by N Sekhon. It describes the different data cleaning and statistical tests conducted in the manuscript. Data filed required can be found here: 
 
-Please contact natasha_sekhon@brown.edu with any questions
+Please contact natasha_sekhon@brown.edu with any questions. 
